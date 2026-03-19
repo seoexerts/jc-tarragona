@@ -112,12 +112,19 @@ export const content = {
 
   // ── Textos de secciones ───────────────────────────────────────
   sections: {
+    beneficiosH2:   '¿Por qué elegirnos en {{city}}?',
     beneficiosSub:  'Más de 10 años de experiencia. Equipo propio, sin subcontratas y con gestión de residuos certificada.',
+    serviciosH2:    'Nuestros servicios en {{city}}',
     serviciosSub:   'Todo lo que necesitas para dejar el inmueble listo.',
+    zonaH2:         'Zona de actuación: {{city}} y alrededores',
+    procesoH2:      'Cómo trabajamos: 4 pasos sin complicaciones',
+    testimoniosH2:  'Lo que dicen nuestros clientes en {{city}}',
     testimoniosSub: 'Más de 500 familias y empresas han confiado en nosotros.',
+    preciosH2:      'Precios orientativos en {{city}}',
     zonaComarca:    'de la comarca',
     zonaBarrios:    'También en los barrios de {{city}}:',
     preciosSub:     'Presupuesto final gratuito y sin compromiso. Estos precios son orientativos — el coste real depende del volumen y accesibilidad.',
+    faqH2:          'Preguntas frecuentes en {{city}}',
     preciosNota:    'Precios orientativos para {{city}}. El presupuesto definitivo se calcula según el volumen real, accesibilidad y distancia al punto limpio. Siempre gratuito y sin compromiso.',
     faqSub:         'Resolvemos las dudas más habituales antes de contratar el servicio.',
   },
