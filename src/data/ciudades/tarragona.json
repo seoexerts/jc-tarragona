@@ -1,0 +1,26 @@
+{
+  "slug": "tarragona",
+  "nombre": "Tarragona",
+  "provincia": "Tarragona",
+  "lat": 41.1189,
+  "lng": 1.2445,
+  "telefono": "602365996",
+  "email": "info@justclean.es",
+  "direccion": "Rambla Nova, 1",
+  "codigoPostal": "43001",
+  "zonas": [
+    "Centre",
+    "Eixample",
+    "Part Alta",
+    "El Serrallo",
+    "Sant Salvador",
+    "Bonavista",
+    "Sant Pere i Sant Pau",
+    "Campclar",
+    "Torreforta",
+    "La Granja"
+  ],
+  "seoIntro": "Vaciado de pisos y locales en Tarragona. Equipo propio especializado en vaciados, desocupaciones y recogida de muebles en Tarragona y toda la provincia. Cubrimos el Camp de Tarragona, el Tarragonès y municipios limítrofes con rapidez y precio cerrado.",
+  "metaDesc": "Vaciado de pisos en Tarragona — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+  "serviciosActivos": ["vaciado-pisos", "vaciado-locales", "recogida-muebles"]
+}
