@@ -22,5 +22,56 @@
   ],
   "seoIntro": "Vaciado de pisos y locales en Tarragona. Equipo propio especializado en vaciados, desocupaciones y recogida de muebles en Tarragona y toda la provincia. Cubrimos el Camp de Tarragona, el Tarragonès y municipios limítrofes con rapidez y precio cerrado.",
   "metaDesc": "Vaciado de pisos en Tarragona — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
-  "serviciosActivos": ["vaciado-pisos", "vaciado-locales", "recogida-muebles"]
+  "serviciosActivos": ["vaciado-pisos", "vaciado-locales", "recogida-muebles"],
+  "ciudadesSecundarias": [
+    {
+      "nombre": "Reus",
+      "slug": "reus",
+      "seoIntro": "Vaciado de pisos y locales en Reus. Servicio profesional de vaciado en Reus, capital del Baix Camp, con cobertura en el Casco Antiguo y todos los barrios.",
+      "metaDesc": "Vaciado de pisos en Reus — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Casco Antiguo", "Eixample", "Barri Fortuny", "Sant Pere", "La Inmaculada", "Barri Gaudí"]
+    },
+    {
+      "nombre": "Salou",
+      "slug": "salou",
+      "seoIntro": "Vaciado de pisos y locales en Salou. Equipo propio para vaciados en Salou y la Costa Daurada, con atención rápida y precio cerrado.",
+      "metaDesc": "Vaciado de pisos en Salou — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Ponent", "Llevant", "Cap Salou", "Centre", "Urbanitzacions"]
+    },
+    {
+      "nombre": "Cambrils",
+      "slug": "cambrils",
+      "seoIntro": "Vaciado de pisos y locales en Cambrils. Servicio de vaciado profesional en Cambrils y el Baix Camp, con gestión de residuos certificada.",
+      "metaDesc": "Vaciado de pisos en Cambrils — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Barri Antic", "Barri Pesquer", "Centre", "Vilafortuny", "Cap de Sant Pere"]
+    },
+    {
+      "nombre": "Valls",
+      "slug": "valls",
+      "seoIntro": "Vaciado de pisos y locales en Valls. Equipo propio para vaciados en Valls y el Alt Camp, con atención rápida y discreta.",
+      "metaDesc": "Vaciado de pisos en Valls — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Barri Antic", "Sant Francesc", "El Carme", "La Catedral", "Eixample"]
+    },
+    {
+      "nombre": "Amposta",
+      "slug": "amposta",
+      "seoIntro": "Vaciado de pisos y locales en Amposta. Servicio de vaciado profesional en Amposta y el Montsià, con cobertura en todo el delta del Ebro.",
+      "metaDesc": "Vaciado de pisos en Amposta — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Centre", "Sant Miquel", "L'Oriola", "El Poble Nou", "Mas de Ciges"]
+    },
+    {
+      "nombre": "Constantí",
+      "slug": "constanti",
+      "seoIntro": "Vaciado de pisos y locales en Constantí. Equipo propio para vaciados en Constantí y el Tarragonès, con respuesta en menos de 24 h.",
+      "metaDesc": "Vaciado de pisos en Constantí — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Centre", "Barri Nou", "Les Planes", "La Devesa"]
+    },
+    {
+      "nombre": "Altafulla",
+      "slug": "altafulla",
+      "seoIntro": "Vaciado de pisos y locales en Altafulla. Servicio de vaciado rápido y profesional en Altafulla y la costa del Tarragonès.",
+      "metaDesc": "Vaciado de pisos en Altafulla — equipo propio, precio cerrado y presupuesto gratuito en 24 h. Sin subcontratas.",
+      "zonas": ["Centre", "Port d'Altafulla", "Urbanitzacions", "Barri Antic"]
+    }
+  ]
 }
